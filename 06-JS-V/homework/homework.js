@@ -89,6 +89,7 @@ function agregarMetodo() {
     return this.nombre + ", " + this.edad + " años"
   }
 }
+
   
 
 // No modificar nada debajo de esta línea
